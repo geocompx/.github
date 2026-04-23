@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://geocompx.org/static/geocompx-logo-h.png" width="300"/>
+  <img src="https://geocompx.org/static/geocompx-logo-horizontal2026s.png" width="300"/>
 </p>
 
 **geocomp*x*** is a community-driven project supporting **learning and teaching geocomputation** across multiple programming languages.
